@@ -1,5 +1,5 @@
-## Introduction & Bio
-👋 I am Miroslav Krastanov (Miro). I am 29 years old, and I'm from Bulgaria. <br><br>
+## 👋 Introduction & Bio
+👦 I am Miroslav Krastanov (Miro). I am 29 years old, and I'm from Bulgaria. <br><br>
 🎓 I graduated from Technical University of Sofia (BG) in 2017 and from Coventry University (UK) in 2018 with merit. <br><br>
 👀 I am interested in programming, and I am currently learning JavaScript. <br><br>
 💻 For the past few years I have been working as a technical support agent and that has further solidified my desire to master programming as I was often creating clever ways to use code to improve my work efficiency and provide better quality of service, which magnified my passion to code even more. <br><br>
