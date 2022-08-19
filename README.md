@@ -16,4 +16,4 @@ HTML, Windows System Administration, Active Directory, Hardware, Networking <br>
 miroslav.a.krastanov@gmail.com <br><br>
 
 ## 🤹 Other interests
-Foreign Languages, Psychology, Philosophy, Cybersecurity, Sports, Parkour, Robotics, Dancing 
+Foreign Languages, Psychology, Philosophy, Cybersecurity, Robotics, AI, AR, Machine Learning, Technology, Sports, Parkour, Dancing, Cars 
