@@ -11,18 +11,9 @@
 ## 🔭 Tools & Technologies
 ### Beginner
 C, C++, PHP, Java, CSS, Lua, BB Code, JavaScript, Python <br>
-
 ### Intermediate
 HTML, Windows System Administration, Active Directory, Hardware, Networking <br>
 
-## 📫 How to reach me 
-miroslav.a.krastanov@gmail.com <br>
-
-## 🤹 Other interests
-Foreign Languages, Psychology, Philosophy, Cybersecurity, Robotics, AI, AR, Machine Learning, Technology, Sports, Parkour, Dancing, Cars 
-
-<p>
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&bg_color=00000000&hide_border=true&text_color=00AEFF&&count_private=true&include_all_commits=true" />
-
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=00AEFFcount_private=true&include_all_commits=true" />
-</p>
+## Statistics
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&hide_border=true&theme=chartreuse-dark" /></a> |
+| ------------- | ------------- |
