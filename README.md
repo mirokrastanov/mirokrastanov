@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
-
 ## 👋 Introduction & Bio
 👦 My name is Miroslav Krastanov (Miro) and I am from Bulgaria. <br>
 🎓 I am an alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry University</a> (UK,2018). I gratuated with merit. <br>
@@ -14,6 +12,6 @@ C, C++, PHP, Java, CSS, Lua, BB Code, JavaScript, Python <br>
 ### Intermediate
 HTML, Windows System Administration, Active Directory, Hardware, Networking <br>
 
-## Statistics
+## Statistics  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&hide_border=true&theme=chartreuse-dark" /></a> |
 | ------------- | ------------- |
