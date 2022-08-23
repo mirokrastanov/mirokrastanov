@@ -12,6 +12,7 @@ C, C++, PHP, Java, CSS, Lua, BB Code, JavaScript, Python <br>
 ### Intermediate
 HTML, Windows System Administration, Active Directory, Hardware, Networking <br>
 
-## Statistics  ![visitors](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
+## Statistics ![visitors](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&hide_border=true&theme=chartreuse-dark" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | 
+
