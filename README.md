@@ -10,9 +10,9 @@
 ### Beginner
 C, C++, PHP, Java, CSS, Lua, BB Code, JavaScript, Python <br>
 ### Intermediate
-HTML, Windows System Administration, Active Directory, Hardware, Networking <br>
+HTML, Windows System Administration, Active Directory, Hardware, Networking <br><br>
 
 ## Statistics 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&hide_border=true&theme=chartreuse-dark" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=highcontrast" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=highcontrast" /></a> |
 | ------------- | ------------- | 
 
