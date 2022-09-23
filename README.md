@@ -23,7 +23,7 @@
 <img align="left" alt="lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> <br><br>
 
 <!--
- Windows System Administration, Active Directory, Hardware, Networking <br><br>
+ Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
 -->
 <br />
 <h1> 📋 Statistics </h1>
