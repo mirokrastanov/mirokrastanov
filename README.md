@@ -1,10 +1,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
 <h1> 👋 Introduction & Bio </h1>
 <strong>
- 🎓 I am an alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018). I gratuated with merit. <br /><br />
- 👀 I am interested in programming, and I am currently learning JavaScript, HTML & CSS. <br /><br />
- 💻 I worked as a technical support specialist for a few years and I've always liked using coding to improve my performance. <br /><br />
- ✨ I decided that it is time to pursue programming professionally. I got accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. <br /> </strong>
+ 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (with merit). <br /><br />
+ 👀 Interested in programming and currently learning JavaScript, HTML & CSS. <br /><br />
+ 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. <br /><br />
+ ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. <br /> </strong>
 
 <br />
 <h1> 🔭 Tools & Technologies </h1>
