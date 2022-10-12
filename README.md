@@ -1,9 +1,10 @@
 <img src="https://i.imgur.com/ygRQeTP.png" alt="bg-header-image" width="100%">
-<strong>
- 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit). <br /><br />
- 👀 Interested in programming and currently learning JavaScript, HTML & CSS. <br /><br />
- 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. <br /><br />
- ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. <br /> </strong>
+
+# :wave: Introduction
+#### 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit). <br />
+#### 👀 Interested in programming and currently learning JavaScript, HTML & CSS. <br />
+#### 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. <br />
+#### ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. 
 
 <br />
 <h1> 🔭 Tools & Technologies </h1>
