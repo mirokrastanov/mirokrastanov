@@ -1,4 +1,7 @@
-![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
+<!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) -->
+<div style="display:inline-block;"><h2>Visitor Count:</h2></div> 
+<img src="https://www.cutercounter.com/hits.php?id=huxffffo&nd=4&style=72" border="0" alt="visitor-counter" style="display:inline-block;"> <!-- visitor badge - alternative -->
+
 <h1> 👋 Introduction & Bio </h1>
 <strong>
  🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit). <br /><br />
