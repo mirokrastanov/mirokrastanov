@@ -30,7 +30,7 @@
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- | 
 <!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) -->
-|Visitor count|<img src="https://www.cutercounter.com/hits.php?id=huxffffo&nd=4&style=72" border="0" alt="visitor-counter">|
+|<img src="https://icon-library.com/images/eye__1395642.png" border="0" height="12px" alt="views-icon"> Visitor Count|<img src="https://www.cutercounter.com/hits.php?id=huxffffo&nd=4&style=72" border="0" alt="visitor-counter">|
 |--|--| 
 <!-- visitor badge - alternative -->
 
