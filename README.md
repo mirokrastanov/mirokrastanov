@@ -30,12 +30,11 @@
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- |
 
-<!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) --> <!--  
+<!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) 
 |<img src="https://icon-library.com/images/eye__1395642.png" border="0" height="12px" alt="views-icon"> Visitor Count|![views](https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet)|
-|--|--| 
---> <!-- visitor badge - alternative -->
+|--|--|  visitor badge - alternatives -->
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet&style=plastic" height="30px" alt="visitors"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet&style=plastic" height="24px" alt="visitors"></p>
 
 
 
