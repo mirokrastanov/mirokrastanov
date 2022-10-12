@@ -1,8 +1,4 @@
-<!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) -->
-<div style="display:inline-block;"><h2>Visitor Count:</h2></div> 
-<img src="https://www.cutercounter.com/hits.php?id=huxffffo&nd=4&style=72" border="0" alt="visitor-counter" style="display:inline-block;"> <!-- visitor badge - alternative -->
-
-<h1> 👋 Introduction & Bio </h1>
+<h1> 👋 Hey, I'm Miro! </h1>
 <strong>
  🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit). <br /><br />
  👀 Interested in programming and currently learning JavaScript, HTML & CSS. <br /><br />
@@ -33,8 +29,10 @@
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> |
 | ------------- | ------------- | 
-
-
+<!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) -->
+|Visitor count|<img src="https://www.cutercounter.com/hits.php?id=huxffffo&nd=4&style=72" border="0" alt="visitor-counter">|
+|--|--| 
+<!-- visitor badge - alternative -->
 
 
 
