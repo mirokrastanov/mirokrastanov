@@ -19,7 +19,7 @@
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /> -->
 <img align="left" alt="git" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="github" width="40px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
+<img align="left" alt="github" width="40px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" /> <br /><br /><br />
 <!-- <img align="left" alt="lua" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> <br><br> -->
 
 <!--
