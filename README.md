@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
+![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov)
 <h1> 👋 Introduction & Bio </h1>
 <strong>
  🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit). <br /><br />
