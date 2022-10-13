@@ -1,20 +1,23 @@
 <img src="https://i.imgur.com/ygRQeTP.png" alt="bg-header-image" width="100%">
 
-# :wave: Introduction
-#### 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit). <br />
-#### 👀 Interested in programming and currently learning JavaScript, HTML & CSS. <br />
-#### 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. <br />
-#### ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. 
+<h1> :wave: Introduction </h1>
 
+<ul type="none">
+ <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
+ <li> 👀 Interested in programming and currently learning JavaScript, HTML & CSS. </li>
+ <li> 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
+ <li> ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
+ </ul>
 <br />
+
 <h1> 🔭 Tools & Technologies </h1>
 
 <img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<!-- <img align="left" alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /> -->
+<img align="left" alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
 <!-- <img align="left" alt="csharp" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /> -->
 <!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> -->
-<!-- <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /> -->
+<img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="html" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /> -->
