@@ -12,9 +12,9 @@
 
 <h1> 🔭 Tools & Technologies </h1>
 
-<img align="left" alt="javascript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="nodejs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" />
+<img align="left" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
+<img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" />
 <!-- <img align="left" alt="csharp" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" /> -->
 <!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /> -->
 <img align="left" alt="python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
