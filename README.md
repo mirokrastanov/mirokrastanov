@@ -12,18 +12,18 @@
 
 <h1> 🔭 Tools & Technologies </h1>
 
-<img align="left" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" />
-<img align="left" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
-<!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" /> -->
-<!-- <img align="left" alt="csharp" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" /> -->
-<!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" /> -->
-<!-- <img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" /> -->
-<img align="left" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" />
-<img align="left" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" />
-<!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /> -->
-<img align="left" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" />
-<img align="left" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" /> <br /><br /><br />
-<!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" /> <br><br> -->
+<img align="left" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" />
+<img align="left" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" />
+<!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" title="Java" /> -->
+<!-- <img align="left" alt="csharp" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" /> -->
+<!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" title="C++" /> -->
+<!-- <img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" /> -->
+<img align="left" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" />
+<img align="left" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" />
+<!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" /> -->
+<img align="left" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" />
+<img align="left" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" /> <br /><br /><br />
+<!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
 
 <!--
  Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
