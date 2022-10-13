@@ -14,10 +14,10 @@
 
 <img align="left" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" />
 <img align="left" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" />
-<img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" />
+<!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" /> -->
 <!-- <img align="left" alt="csharp" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" /> -->
 <!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" /> -->
-<img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" />
+<!-- <img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" /> -->
 <img align="left" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" />
 <img align="left" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" />
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /> -->
