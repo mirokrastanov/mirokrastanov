@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/Github_readme_01.gif" alt="bg-header-image" width="100%"> 
+<img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%"> 
 <!-- alternative https://i.imgur.com/ygRQeTP.png -->
 
 <h1> :wave: Introduction </h1>
