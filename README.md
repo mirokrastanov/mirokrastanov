@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation"/> 
+<img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov"/> 
 <!-- alternative https://i.imgur.com/ygRQeTP.png -->
 
 <h1> :wave: Introduction </h1>
