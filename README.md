@@ -28,6 +28,7 @@
 
 <!--
  Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
+-- pull icons -- use -- edit / flare up -- design & compress -- check diff variations
 -->
 <br />
 <h1> 📋 Statistics </h1>
