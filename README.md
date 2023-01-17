@@ -23,9 +23,11 @@
 <img align="left" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" />
 <img align="left" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" />
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" /> -->
+<img align="left" alt="github" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" />
 <img align="left" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" />
 <img align="left" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" /> <br /><br /><br />
 <!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
+
 
 <!--
  Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
