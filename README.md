@@ -12,6 +12,8 @@
  </ul>
 <br />
 
+<!-- Export the replit URL into its own section and pull up links for each project on the main page -->
+
 <h1> 🔭 Tools & Technologies </h1>
 
 <img align="left" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" />
