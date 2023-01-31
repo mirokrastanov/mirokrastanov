@@ -8,7 +8,7 @@
  <li> 👀 Interested in programming and currently learning JavaScript, HTML & CSS. </li>
  <li> 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
  <li> ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
- <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps</a>(Some projects are still in progress and may or may not contain a working demo)</li> 
+ <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps </a> (Some projects are still in progress and may or may not contain a working demo)</li> 
  </ul>
 <br />
 
