@@ -49,7 +49,7 @@
 | <h4>Dino Jumping</h4> | <h4> Web Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://dino-jumping.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/DinoJumping)</h4> |
 | <h4>SoftUni Wizard</h4> | <h4> Web Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://softuni-wizard-game.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/softuni-wizard-game)</h4> |
 | <h4>Solitaire</h4> | <h4> Web Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://solitaire.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/solitaire)</h4> |
-
+<br />
 
 
 <h1> 📋 Statistics </h1>
