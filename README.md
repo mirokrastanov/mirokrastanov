@@ -38,6 +38,17 @@
 -- pull icons -- use -- edit / flare up -- design & compress -- check diff variations
 -->
 <br />
+
+<h1> :movie_camera: Projects </h1>
+
+| Name | Demo | Code | 
+| --- | --- | --- |
+| Rock Paper Scissors (console based) | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1) | [Source Code](https://github.com/mirokrastanov/RockPaperScissors) |
+| Guess The Number (console based) | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1) | [Source Code](https://github.com/mirokrastanov/GuessTheNumber) |
+| --- | --- | --- |
+
+
+
 <h1> 📋 Statistics </h1>
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> |
