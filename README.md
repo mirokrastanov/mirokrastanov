@@ -41,8 +41,8 @@
 
 <h1> :movie_camera: Projects </h1>
 
-| <h4> Name </h4> | <h4> Type </h4> | <h4> Demo </h4> | <h4> Code & Docs </h4> | 
-| --- | --- | --- | --- |
+| <h4> Name </h4> | <h4> Type </h4> | <h4> Demo </h4> | <h4> Code & Docs </h4> |
+| :---: | :---: | :---: | :---: |
 | <h4>Rock Paper Scissors</h4> | <h4> Console Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1) | <h4>[ Project Files ](https://github.com/mirokrastanov/RockPaperScissors)</h4> |
 | <h4>Guess The Number</h4> | <h4> Console Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1) | <h4>[ Project Files ](https://github.com/mirokrastanov/GuessTheNumber)</h4> |
 | <h4>Decimal to Binary/Hex Calculator</h4> | <h4> Web App </h4> | [<img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn-02.png?raw=true" alt="run-button" height="35px" />](https://convertor-decimal-to-binary-or-hex.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/decimal-binary-hex-calculator)</h4> |
