@@ -43,8 +43,8 @@
 
 | Name | Demo | Code | 
 | --- | --- | --- |
-| Rock Paper Scissors (console based) | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1) | [Source Code](https://github.com/mirokrastanov/RockPaperScissors) |
-| Guess The Number (console based) | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="40px" />](https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1) | [Source Code](https://github.com/mirokrastanov/GuessTheNumber) |
+| <h4>Rock Paper Scissors (console based)</h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1) | <h4>[ Source Code ](https://github.com/mirokrastanov/RockPaperScissors)</h4> |
+| <h4>Guess The Number (console based)</h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="30px" />](https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1) | <h4>[ Source Code ](https://github.com/mirokrastanov/GuessTheNumber)</h4> |
 | --- | --- | --- |
 
 
