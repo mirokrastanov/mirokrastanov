@@ -1,14 +1,14 @@
-<img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov"/> 
+<img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
 <!-- alternative https://i.imgur.com/ygRQeTP.png -->
 
 <h1 align="center"> :wave: Introduction </h1>
 
-<ul type="none">
+<ul type="none" align="center">
  <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
  <li> 👀 Interested in programming and currently learning JavaScript, HTML & CSS. </li>
  <li> 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
- <li> ✨ I decided that it is time to pursue programming professionally. I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
- <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps </a> (Some projects are still in progress and may or may not contain a working demo)</li> 
+ <li> ✨ I decided to pursue programming professionally I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
+ <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps </a> (Some projects are still in progress and may or may not contain a working demo).</li> 
  </ul>
 <br />
 
@@ -37,7 +37,6 @@
  Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
 -- pull icons -- use -- edit / flare up -- design & compress -- check diff variations
 -->
-<br />
 
 <h1 align="center"> :movie_camera: Projects </h1>
 
