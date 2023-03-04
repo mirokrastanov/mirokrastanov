@@ -41,21 +41,77 @@
 
 <h1> :movie_camera: Projects </h1>
 
-| <h4> Name </h4> | <h4> Type </h4> | <h4> Demo </h4> | <h4> Code & Docs </h4> |
-| :---: | :---: | :---: | :---: |
-| <h4>Rock Paper Scissors</h4> | <h4> Console Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="20px" />](https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1) | <h4>[ Project Files ](https://github.com/mirokrastanov/RockPaperScissors)</h4> |
-| <h4>Guess The Number</h4> | <h4> Console Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="20px" />](https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1) | <h4>[ Project Files ](https://github.com/mirokrastanov/GuessTheNumber)</h4> |
-| <h4>Decimal to Binary/Hex Calculator</h4> | <h4> Web App </h4> | [<img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn-02.png?raw=true" alt="run-button" height="25px" />](https://convertor-decimal-to-binary-or-hex.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/decimal-binary-hex-calculator)</h4> |
-| <h4>Dino Jumping</h4> | <h4> Web Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="20px" />](https://dino-jumping.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/DinoJumping)</h4> |
-| <h4>SoftUni Wizard</h4> | <h4> Web Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="20px" />](https://softuni-wizard-game.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/softuni-wizard-game)</h4> |
-| <h4>Solitaire</h4> | <h4> Web Game </h4> | [<img src="https://freepngimg.com/download/play_now_button/25403-5-play-now-button-transparent.png" alt="run-button" height="20px" />](https://solitaire.mirokrastanov.repl.co/) | <h4>[ Project Files ](https://github.com/mirokrastanov/solitaire)</h4> |
+  <table id="verticalalign" align="center">
+        <thead>
+            <tr>
+                <th><h3>Name</h3></th>
+                <th><h3>Type</h3></th>
+                <th><h3>Demo</h3></th>
+                <th><h3>Game Guide</h3></th>
+                <th><h3>Project Files</h3></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr> <!-- ROW 1 -->
+                <td align="center" valign="middle"><b>Rock Paper Scissors</b></td>
+                <td align="center" valign="middle"><b>Console Game</b></td>
+                <td align="center" valign="middle"> <a href="https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 2 -->
+                <td align="center" valign="middle"><b>Guess The Number</b></td>
+                <td align="center" valign="middle"><b>Console Game</b></td>
+                <td align="center" valign="middle"> <a href="https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 3 -->
+                <td align="center" valign="middle"><b>Decimal to Binary & Hex Convertor</b></td>
+                <td align="center" valign="middle"><b>Web App</b></td>
+                <td align="center" valign="middle"> <a href="https://convertor-decimal-to-binary-or-hex.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/start-test-btn.png?raw=true" height="20px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/decimal-binary-hex-calculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/decimal-binary-hex-calculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 4 -->
+                <td align="center" valign="middle"><b>Dino Jumping</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
+                <td align="center" valign="middle"> <a href="https://dino-jumping.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 5 -->
+                <td align="center" valign="middle"><b>SoftUni Wizard</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
+                <td align="center" valign="middle"> <a href="https://softuni-wizard-game.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 6 -->
+                <td align="center" valign="middle"><b>Solitaire</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
+                <td align="center" valign="middle"> <a href="https://solitaire.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+
+<br />
+<h1> 📋 Statistics </h1>
+
+<table align="center"> 
+  <tr>
+   <td> <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> </td>
+   <td> <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> </td>
+ </tr>
+</table>
 <br />
 
 
-<h1> 📋 Statistics </h1>
-
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> |
-| ------------- | ------------- |
 
 <!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) 
 |<img src="https://icon-library.com/images/eye__1395642.png" border="0" height="12px" alt="views-icon"> Visitor Count|![views](https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet)|
