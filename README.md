@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov"/> 
 <!-- alternative https://i.imgur.com/ygRQeTP.png -->
 
-<h1> :wave: Introduction </h1>
+<h1 align="center"> :wave: Introduction </h1>
 
 <ul type="none">
  <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
@@ -14,7 +14,7 @@
 
 <!-- Export the replit URL into its own section and pull up links for each project on the main page -->
 
-<h1> 🔭 Tools & Technologies </h1>
+<h1 align="center"> 🔭 Tools & Technologies </h1>
 
 <img align="left" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" />
 <img align="left" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" />
@@ -39,7 +39,7 @@
 -->
 <br />
 
-<h1> :movie_camera: Projects </h1>
+<h1 align="center"> :movie_camera: Projects </h1>
 
   <table id="verticalalign" align="center">
         <thead>
@@ -101,7 +101,7 @@
 
 
 <br />
-<h1> 📋 Statistics </h1>
+<h1 align="center"> 📋 Statistics </h1>
 
 <table align="center"> 
   <tr>
