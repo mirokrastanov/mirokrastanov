@@ -5,7 +5,7 @@
 
 <ul type="none" align="center">
  <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
- <li> 👀 Interested in programming and currently learning JavaScript, HTML & CSS. </li>
+ <li> 👀 Interested in programming and currently learning JavaScript. </li>
  <li> 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
  <li> ✨ I decided to pursue programming professionally I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
  <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps </a> (Some projects are still in progress and may or may not contain a working demo).</li> 
