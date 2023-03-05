@@ -33,6 +33,7 @@
 <img align="center" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" />
 <img align="center" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" />
 <!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
+<!-- Mocha, Chai  -->
   </td>
  </tr>
 </table>
