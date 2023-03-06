@@ -73,7 +73,7 @@
             <tr> <!-- ROW 3 -->
                 <td align="center" valign="middle"><b>Decimal to Binary & Hex Convertor</b></td>
                 <td align="center" valign="middle"><b>Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://convertor-decimal-to-binary-or-hex.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/start-test-btn.png?raw=true" height="20px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://convertor-decimal-to-binary-or-hex.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/decimal-binary-hex-calculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/decimal-binary-hex-calculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
