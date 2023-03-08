@@ -12,8 +12,6 @@
  </ul>
 <br />
 
-<!-- Export the replit URL into its own section and pull up links for each project on the main page -->
-
 <h1 align="center"> 🔭 Tools & Technologies </h1>
 <table align="center">
  <tr>
