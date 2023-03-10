@@ -49,7 +49,7 @@
                 <th><h3>Name</h3></th>
                 <th><h3>Type</h3></th>
                 <th><h3>Demo</h3></th>
-                <th><h3>Game Guide</h3></th>
+                <th><h3>Documentation</h3></th>
                 <th><h3>Project Files</h3></th>
             </tr>
         </thead>
