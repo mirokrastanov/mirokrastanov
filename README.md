@@ -31,7 +31,7 @@
 <img align="center" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" />
 <img align="center" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" />
 <!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
-<!-- Mocha, Chai  -->
+<!-- Mocha, Chai, Playwright-Chromium, http-server  -->
   </td>
  </tr>
 </table>
@@ -124,11 +124,12 @@
 
 
 <!-- TODO 
-- add gadget
-- filters
-- tech icons
-- script/etlifs 
-- etc.
+- separate the first 2 projects into a separate folder - small / basic projects
+- update #3 to a full scientific calculator 
+- update #4 with enhanced styling, possible level tuning or other impactful mechanic
+- separate the regular projects with their own section , separating mechanism - static, and the ones able to communicate with an outside service, via api, etc
+- follow up after each - revise links & structure 
+- styling revision
 
 aa|bb|cc
 --|--|--
