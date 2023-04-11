@@ -69,18 +69,18 @@
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
             <tr> <!-- ROW 3 -->
-                <td align="center" valign="middle"><b>Decimal to Binary & Hex Convertor</b></td>
-                <td align="center" valign="middle"><b>Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://convertor-decimal-to-binary-or-hex.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/decimal-binary-hex-calculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/decimal-binary-hex-calculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-            </tr>
-            <tr> <!-- ROW 4 -->
                 <td align="center" valign="middle"><b>Dino Jumping</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
                 <td align="center" valign="middle"> <a href="https://dino-jumping.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 4 -->
+                <td align="center" valign="middle"><b>Scientific Calculator</b></td>
+                <td align="center" valign="middle"><b>Web App</b></td>
+                <td align="center" valign="middle"> <a href="https://scientific-calculator.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
             <tr> <!-- ROW 5 -->
                 <td align="center" valign="middle"><b>SoftUni Wizard</b></td>
