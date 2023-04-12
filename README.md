@@ -96,6 +96,13 @@
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
+            <tr> <!-- ROW 7 -->
+                <td align="center" valign="middle"><b>Tic Tac Toe</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
+                <td align="center" valign="middle"> <a href="https://tictactoe.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
         </tbody>
     </table>
 
