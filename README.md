@@ -4,10 +4,10 @@
 <h1 align="center"> :wave: Introduction </h1>
 
 <ul type="none" align="center">
- <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
- <li> 👀 I'm interested in programming and I'm currently learning Frond End & Back End technologies with JavaScript. </li>
- <li> 💻 Few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
- <li> ✨ I decided to pursue programming professionally I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
+ <li> 🎓 An alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
+ <li> 👀 Interested in programming and currently I'm learning Frond End & Back End technologies with JavaScript. </li>
+ <li> 💻 I have a few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
+ <li> ✨ I decided to pursue programming professionally and I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
  <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps </a> (Some projects are still in progress and may or may not contain a working demo).</li> 
  </ul>
 <br />
