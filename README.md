@@ -103,7 +103,27 @@
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
-            <tr> <!-- ROW 8 -->
+         
+ </tbody>
+</table>
+
+
+
+<br />
+<h1 align="center"> :movie_camera: Large Projects</h1>
+
+  <table align="center">
+        <thead>
+            <tr>
+                <th><h3>Name</h3></th>
+                <th><h3>Type</h3></th>
+                <th><h3>Demo</h3></th>
+                <th><h3>Documentation</h3></th>
+                <th><h3>Project Files</h3></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr> <!-- ROW 1 -->
                 <td align="center" valign="middle"><b>Weather & Air Quality</b></td>
                 <td align="center" valign="middle"><b>Web App</b></td>
                 <td align="center" valign="middle"> <a href="https://weather.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
@@ -112,6 +132,7 @@
             </tr>
         </tbody>
     </table>
+
 
 
 
