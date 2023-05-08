@@ -14,16 +14,46 @@
 
 <h1 align="center"> 🔭 Tools & Technologies </h1>
 <table align="center">
- <tr>
+ <tr> <!-- ROW 1 -->
   <td>
-<img align="center" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" />
+JS <img align="center" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" />
+HTML <img align="center" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" />
+CSS <img align="center" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" />
+   
+  </td>
+ </tr>
+</table>
+
+<table align="center">
+ <tr> <!-- ROW 2 -->
+  <td>
+Mocha <img align="center" alt="mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="mocha" />
+Chai <img align="center" alt="chai" width="40px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" title="chai" />
+Playwright Chromium <img align="center" alt="Playwright Chromium" width="40px" src="https://playwright.dev/img/playwright-logo.svg" title="Playwright Chromium" />
+   
+  </td>
+ </tr>
+</table>
+
+<table align="center">
+ <tr> <!-- ROW 2 -->
+  <td>
+lit-html <img align="center" alt="lit-html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" title="lit-html" />
+Page <img align="center" alt="Page js router library" width="40px" src="https://www.iconhot.com/icon/png/coded/512/page-javascript.png" title="Page js router library" />
+Axios <img align="center" alt="Axios js fetching library" width="40px" src="https://avatars.githubusercontent.com/u/32372333?v=4" title="Axios js fetching library" />
+   
+  </td>
+ </tr>
+</table>
+
+<table align="center">
+ <tr> <!-- ROW 3 -->
+  <td>
 <img align="center" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" />
 <!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" title="Java" /> -->
 <!-- <img align="left" alt="csharp" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" /> -->
 <!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" title="C++" /> -->
 <!-- <img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" /> -->
-<img align="center" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" />
-<img align="center" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" />
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" /> -->
 <img align="center" alt="markdown" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" />
 <img align="center" alt="postman" width="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" />
