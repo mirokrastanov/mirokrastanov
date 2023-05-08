@@ -13,6 +13,8 @@
 <br />
 
 <h1 align="center"> 🔭 Tools & Technologies </h1>
+
+<h3 align="center"> 🔭 Languages </h3>
 <table align="center">
  <th> 
   JS
@@ -26,6 +28,7 @@
  </tr>
 </table>
 
+<h3 align="center"> 🔭 Testing </h3>
 <table align="center">
  <th> 
   Mocha
@@ -39,6 +42,7 @@
  </tr>
 </table>
 
+<h3 align="center"> 🔭 Libraries </h3>
 <table align="center">
  <th> 
   lit-html
@@ -52,6 +56,7 @@
  </tr>
 </table>
 
+<h3 align="center"> 🔭 Other software </h3>
 <table align="center">
  <th> 
   Node.js
