@@ -14,35 +14,41 @@
 
 <h1 align="center"> 🔭 Tools & Technologies </h1>
 <table align="center">
+ <th> 
+  JS
+  <td>HTML</td>
+  <td>CSS</td>
+ </th>
  <tr> <!-- ROW 1 -->
-  <td>
-JS <img align="center" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" />
-HTML <img align="center" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" />
-CSS <img align="center" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" />
-   
-  </td>
+  <td><img align="center" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" /></td>
+  <td><img align="center" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" /></td>
+  <td><img align="center" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" /></td>
  </tr>
 </table>
 
 <table align="center">
+ <th> 
+  Mocha
+  <td>Chai</td>
+  <td>Playwright Chromium</td>
+ </th>
  <tr> <!-- ROW 2 -->
-  <td>
-Mocha <img align="center" alt="mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="mocha" />
-Chai <img align="center" alt="chai" width="40px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" title="chai" />
-Playwright Chromium <img align="center" alt="Playwright Chromium" width="40px" src="https://playwright.dev/img/playwright-logo.svg" title="Playwright Chromium" />
-   
-  </td>
+  <td><img align="center" alt="mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="mocha" /></td>
+  <td><img align="center" alt="chai" width="40px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" title="chai" /></td>
+  <td> <img align="center" alt="Playwright Chromium" height="40px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/425588i2739A4E70BBF9031?v=v2" title="Playwright Chromium" /> </td>
  </tr>
 </table>
 
 <table align="center">
+ <th> 
+  lit-html
+  <td>Page</td>
+  <td>Axios</td>
+ </th>
  <tr> <!-- ROW 2 -->
-  <td>
-lit-html <img align="center" alt="lit-html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" title="lit-html" />
-Page <img align="center" alt="Page js router library" width="40px" src="https://www.iconhot.com/icon/png/coded/512/page-javascript.png" title="Page js router library" />
-Axios <img align="center" alt="Axios js fetching library" width="40px" src="https://avatars.githubusercontent.com/u/32372333?v=4" title="Axios js fetching library" />
-   
-  </td>
+  <td> <img align="center" alt="lit-html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" title="lit-html" /></td>
+  <td> <img align="center" alt="Page js router library" width="40px" src="https://www.iconhot.com/icon/png/coded/512/page-javascript.png" title="Page js router library" /> </td>
+  <td> <img align="center" alt="Axios js fetching library" width="40px" src="https://avatars.githubusercontent.com/u/32372333?v=4" title="Axios js fetching library" /> </td>
  </tr>
 </table>
 
