@@ -53,24 +53,32 @@
 </table>
 
 <table align="center">
+ <th> 
+  Node.js
+  <td>Markdown</td>
+  <td>Postman</td>
+  <td>Figma</td>
+  <td>Git</td>
+  <td>Github</td>
+ </th>
  <tr> <!-- ROW 3 -->
-  <td>
-<img align="center" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" />
+  <td><img align="center" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" /></td>
+  <td><img align="center" alt="markdown" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" /></td>
+  <td><img align="center" alt="postman" width="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" /></td>
+  <td><img align="center" alt="figma" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" title="Figma" /></td>
+  <td><img align="center" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" /></td>
+  <td><img align="center" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" /></td>
+ </tr>
+</table>
+ 
+<!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
 <!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" title="Java" /> -->
 <!-- <img align="left" alt="csharp" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" title="C#" /> -->
 <!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" title="C++" /> -->
 <!-- <img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" /> -->
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" /> -->
-<img align="center" alt="markdown" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" />
-<img align="center" alt="postman" width="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" />
-<img align="center" alt="figma" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" title="Figma" />
-<img align="center" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" />
-<img align="center" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" />
-<!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
-<!-- Mocha, Chai, Playwright-Chromium, http-server  -->
-  </td>
- </tr>
-</table>
+ 
+ 
  
 <!--
  Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
