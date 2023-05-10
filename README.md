@@ -56,7 +56,7 @@
  </tr>
 </table>
 
-<h3 align="center"> 🔭 Other software </h3>
+<h3 align="center"> 🔭 Other software & tech </h3>
 <table align="center">
  <th> 
   Node.js
