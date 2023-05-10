@@ -71,7 +71,7 @@
  </th>
  <tr> <!-- ROW 3 -->
   <td><img align="center" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" /></td>
-  <td><img align="center" alt="markdown" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" /></td>
+  <td> <img align="center" alt="" width="5px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> <img align="center" alt="markdown" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" /></td>
   <td><img align="center" alt="postman" width="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" /></td>
   <td><img align="center" alt="figma" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" title="Figma" /></td>
   <td><img align="center" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" /></td>
@@ -88,7 +88,7 @@
  
  
 <!--  TRANSPARENT IMAGE for when alignments don't work as they should - use the img below and resize accordingly -->
-<!--    <img align="center" alt="Playwright Chromium" width="15px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="Playwright Chromium" /> -->
+<!--  <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> -->
  
  
  
