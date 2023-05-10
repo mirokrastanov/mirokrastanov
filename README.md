@@ -39,7 +39,7 @@
   <td><img align="center" alt="mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="mocha" /></td>
   <td><img align="center" alt="chai" width="40px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" title="chai" /></td>
   <td> 
-   <img align="center" alt="Playwright Chromium" width="15px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="Playwright Chromium" />
+   <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" />
    <img align="center" alt="Playwright Chromium" height="40px" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="Playwright Chromium" /> 
  </td>
  </tr>
