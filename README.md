@@ -96,6 +96,8 @@
  Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
 -- pull icons -- use -- edit / flare up -- design & compress -- check diff variations
 -->
+
+
 <br />
 <h1 align="center"> :movie_camera: Projects </h1>
 
@@ -215,10 +217,6 @@
 
 
 <!-- TODO 
-- separate the first 2 projects into a separate folder - small / basic projects
-- update #3 to a full scientific calculator 
-- update #4 with enhanced styling, possible level tuning or other impactful mechanic
-- separate the regular projects with their own section , separating mechanism - static, and the ones able to communicate with an outside service, via api, etc
 - follow up after each - revise links & structure 
 - styling revision
 
