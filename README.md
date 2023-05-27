@@ -219,6 +219,10 @@
 <!-- TODO 
 - follow up after each - revise links & structure 
 - styling revision
+- add tech used for each project
+- do one more big project
+- edit links
+- add dynamic elements
 
 aa|bb|cc
 --|--|--
