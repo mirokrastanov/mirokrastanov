@@ -104,6 +104,10 @@
             <b>Others</b>
         </td>
         <td align="center" valign="middle">
+            <a href="https://en.wikipedia.org/wiki/XAMPP" target="_blank"><img align="center"
+                        alt="xampp" height="46px"
+                        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/xampp%20icon.png?raw=true"
+                        title="XAMPP (web server solution stack)" /></a>
             <a href="https://www.postman.com/" target="_blank"><img align="center" alt="postman" height="50px"
                     src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"
                     title="Postman" /></a>
