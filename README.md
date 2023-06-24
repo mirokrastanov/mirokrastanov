@@ -13,71 +13,8 @@
 <br />
 
 <h1 align="center"> 🔭 Tools & Technologies </h1>
-
-<h3 align="center"> 🔭 Languages </h3>
-<table align="center">
- <th> 
-  JS
-  <td>HTML</td>
-  <td>CSS</td>
- </th>
- <tr> <!-- ROW 1 -->
-  <td><img align="center" alt="javascript" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" title="JavaScript" /></td>
-  <td><img align="center" alt="html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" title="HTML" /></td>
-  <td><img align="center" alt="css" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" title="CSS" /></td>
- </tr>
-</table>
-
-<h3 align="center"> 🔭 Testing </h3>
-<table align="center">
- <th> 
-  Mocha
-  <td>Chai</td>
-  <td>Playwright</td>
- </th>
- <tr> <!-- ROW 2 -->
-  <td><img align="center" alt="mocha" width="40px" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" title="mocha" /></td>
-  <td><img align="center" alt="chai" width="40px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" title="chai" /></td>
-  <td> 
-   <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" />
-   <img align="center" alt="Playwright Chromium" height="40px" src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" title="Playwright Chromium" /> 
- </td>
- </tr>
-</table>
-
-<h3 align="center"> 🔭 Libraries </h3>
-<table align="center">
- <th> 
-  lit-html
-  <td>Page</td>
-  <td>Axios</td>
- </th>
- <tr> <!-- ROW 2 -->
-  <td> <img align="center" alt="lit-html" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" title="lit-html" /></td>
-  <td> <img align="center" alt="Page js router library" width="40px" src="https://www.iconhot.com/icon/png/coded/512/page-javascript.png" title="Page js router library" /> </td>
-  <td> <img align="center" alt="Axios js fetching library" width="40px" src="https://avatars.githubusercontent.com/u/32372333?v=4" title="Axios js fetching library" /> </td>
- </tr>
-</table>
-
-<h3 align="center"> 🔭 Other software & tech </h3>
-<table align="center">
- <th> 
-  Node.js
-  <td>Markdown</td>
-  <td>Postman</td>
-  <td>Figma</td>
-  <td>Git</td>
-  <td>Github</td>
- </th>
- <tr> <!-- ROW 3 -->
-  <td><img align="center" alt="nodejs" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="Node.js" /></td>
-  <td> <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> <img align="center" alt="markdown" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Markdown-Dark.svg" title="Markdown" /></td>
-  <td> <img align="center" alt="" width="7px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> <img align="center" alt="postman" width="40px" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" /></td>
-  <td><img align="center" alt="figma" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" title="Figma" /></td>
-  <td><img align="center" alt="git" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" /></td>
-  <td><img align="center" alt="github" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" /></td>
- </tr>
-</table>
+<br />
+### In development... Should be uploaded soon.
  
 <!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
 <!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" title="Java" /> -->
