@@ -134,27 +134,41 @@
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
             <tr> <!-- ROW 4 -->
+                <td align="center" valign="middle"><b>Snake</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
+                <td align="center" valign="middle"> <a href="https://snake.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 5 -->
+                <td align="center" valign="middle"><b>Breakout / Arkanoid</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
+                <td align="center" valign="middle"> <a href="https://breakout.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr> <!-- ROW 6 -->
                 <td align="center" valign="middle"><b>Scientific Calculator</b></td>
                 <td align="center" valign="middle"><b>Web App</b></td>
                 <td align="center" valign="middle"> <a href="https://scientific-calculator.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
-            <tr> <!-- ROW 5 -->
+            <tr> <!-- ROW 7 -->
                 <td align="center" valign="middle"><b>SoftUni Wizard</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
                 <td align="center" valign="middle"> <a href="https://softuni-wizard-game.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
-            <tr> <!-- ROW 6 -->
+            <tr> <!-- ROW 8 -->
                 <td align="center" valign="middle"><b>Solitaire</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
                 <td align="center" valign="middle"> <a href="https://solitaire.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
-            <tr> <!-- ROW 7 -->
+            <tr> <!-- ROW 9 -->
                 <td align="center" valign="middle"><b>Tic Tac Toe</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
                 <td align="center" valign="middle"> <a href="https://tictactoe.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
