@@ -46,7 +46,7 @@
                     title="Express.js" /></a>
             <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="mongodb" height="40px"
                     src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" title="MongoDB" /></a>
-            <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="16px"
+            <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="20px"
                     src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/mongoose%20icon.png?raw=true"
                     title="Mongoose" /></a>
         </td>
@@ -112,6 +112,13 @@
             <a href="https://github.com/about" target="_blank"><img align="center" alt="Github" height="40px"
                     src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"
                     title="Github" /></a>
+           <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"
+                    target="_blank"><img align="center" alt="active directory" height="40px"
+                        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/AD-icon.png?raw=true"
+                        title="Active Directory" /></a>
+                <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="center" alt="windows server" height="36px"
+                        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/win-server-icon.png?raw=true"
+                        title="Windows Server" /></a>
         </td>
     </tr>
 </table>
