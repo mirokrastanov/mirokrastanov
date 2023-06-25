@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
-<!-- alternative https://i.imgur.com/ygRQeTP.png -->
 
 <h1 align="center"> :wave: Introduction </h1>
 
@@ -139,14 +138,6 @@
  
 <!--  TRANSPARENT IMAGE for when alignments don't work as they should - use the img below and resize accordingly -->
 <!--  <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> -->
- 
- 
- 
-<!--
- Windows System Administration, Active Directory, Hardware, Networking, MFA 2FA, SCM. <br><br>
--- pull icons -- use -- edit / flare up -- design & compress -- check diff variations
--->
-
 
 <br />
 <h1 align="center"> :movie_camera: Projects </h1>
@@ -357,11 +348,7 @@
 
 
 <!-- TODO 
-- follow up after each - revise links & structure 
-- styling revision
-- add tech used for each project
 - do one more big project
-- edit links
 - add dynamic elements
 
 aa|bb|cc
