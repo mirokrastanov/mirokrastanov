@@ -7,7 +7,7 @@
  <li> 👀 Interested in programming and currently I'm learning Frond End & Back End technologies with JavaScript. </li>
  <li> 💻 I have a few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
  <li> ✨ I decided to pursue programming professionally and I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
- <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Console Games & Apps </a> (Some projects are still in progress and may or may not contain a working demo).</li> 
+ <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Demos (Apps/Games)</a> (Some projects are still in progress and may or may not contain a working demo).</li> 
  </ul>
 <br />
 
