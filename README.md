@@ -15,6 +15,17 @@
 <br />
 
 <table align="center"> <!-- TABLE 1 -->
+    <tr height="50px"> <!-- ROW 0 -->
+        <td align="center" valign="middle">
+            <b>Frameworks</b>
+        </td>
+        <td align="center" valign="middle">
+            <a href="https://angular.io/" target="_blank"><img align="center"
+                    alt="Angular" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+                    title="Angular" /></a>
+        </td>
+    </tr>
     <tr height="50px"> <!-- ROW 1 -->
         <td align="center" valign="middle">
             <b>Front End</b>
@@ -24,6 +35,10 @@
                     alt="javascript" height="40px"
                     src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"
                     title="JavaScript" /></a>
+            <a href="https://www.typescriptlang.org/" target="_blank"><img align="center"
+                    alt="TypeScript" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
+                    title="TypeScript" /></a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center"
                     alt="html" height="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"
                     title="HTML" /></a>
@@ -48,6 +63,9 @@
             <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="20px"
                     src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/mongoose%20icon.png?raw=true"
                     title="Mongoose" /></a>
+            <a href="https://firebase.google.com/" target="_blank"><img align="center" alt="mongoose" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
+                    title="Firebase (db, admin, auth, account management, hosting)" /></a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 3 -->
@@ -76,7 +94,7 @@
                     src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg"
                     title="lit-html (templating)" /></a>
             <a href="https://www.npmjs.com/package/page.js" target="_blank"><img align="center" alt="page.js"
-                    height="50px" src="https://www.iconhot.com/icon/png/coded/512/page-javascript.png"
+                    height="50px" src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/page-js-1.png"
                     title="Page.js (router)" /></a>
             <a href="https://axios-http.com/docs/intro" target="_blank"><img align="center" alt="axios"
                     height="50px" src="https://avatars.githubusercontent.com/u/32372333?v=4"
@@ -96,6 +114,9 @@
             <a href="https://www.npmjs.com/package/cookie-parser" target="_blank"><img align="center" alt="cookie-parser"
                     height="40px" src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/cookie%20parser%20icon.png?raw=true"
                     title="Cookie-parser (cookies)" /></a>
+            <a href="https://pptr.dev/" target="_blank"><img align="center" alt="cookie-parser"
+                    height="40px" src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png"
+                    title="Puppeteer (web scraping)" /></a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 5-->
