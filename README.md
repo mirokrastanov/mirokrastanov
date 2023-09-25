@@ -169,7 +169,7 @@
 <!--  TRANSPARENT IMAGE for when alignments don't work as they should - use the img below and resize accordingly -->
 <!--  <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> -->
 
-<br />
+
 <h1 align="center"> :movie_camera: Projects </h1>
 
   <table align="center">
