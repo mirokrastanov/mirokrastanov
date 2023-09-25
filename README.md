@@ -338,7 +338,9 @@
                     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px"
                         title="CSS" />
                     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px"
-                        title="Firebase (db, admin, account management, hosting)" />
+                        title="Firebase (db, admin, auth, account management, hosting)" />
+                    <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png" height="40px"
+                        title="Puppeteer (web scraping)" />
                 </td>
             </tr>
         </tbody>
