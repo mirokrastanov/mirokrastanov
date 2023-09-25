@@ -313,7 +313,7 @@
                         title="CSS" />
                     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" height="40px"
                         title="lit-html (templating)" />
-                    <img src="https://camo.githubusercontent.com/4eea7882f924a50d606fc8c9730ea2e9d47147bb11d4a9af4ccdcd18b7747d43/68747470733a2f2f7777772e69636f6e686f742e636f6d2f69636f6e2f706e672f636f6465642f3531322f706167652d6a6176617363726970742e706e67"
+                    <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/page-js-1.png?raw=true"
                         height="44px" title="Page JS (router)" />
                     <img src="https://avatars.githubusercontent.com/u/32372333?v=4" height="46px"
                         title="Axios (http requests)" />
