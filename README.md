@@ -148,6 +148,15 @@
 </table>
 
 
+
+<br />
+<h1 align="center"> 📜 Certificates </h1>
+<h3 align="center">
+ <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni" title="Click to view Certificates"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="50px" /></a>
+</h3>
+
+
+
  
 <!-- <img align="left" alt="lua" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lua-Dark.svg" title="Lua" /> <br><br> -->
 <!-- <img align="left" alt="java" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" title="Java" /> -->
