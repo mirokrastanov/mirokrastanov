@@ -319,6 +319,28 @@
                         title="Axios (http requests)" />
                 </td>
             </tr>
+            <tr> <!-- ROW 2 -->
+                <td align="center" valign="middle"><b>NBA Dashboard</b></td>
+                <td align="center" valign="middle"><b>Full Stack Web App</b></td>
+                <td align="center" valign="middle"> <a href="https://nba-1-480a7.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/NBA-Dashboard/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/NBA-Dashboard"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr>
+                <td align="center" valign="middle"><b>Tech used</b></td>
+                <td align="center" valign="middle" colspan="4">
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40px"
+                        title="Angular" />
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"
+                        title="Typescript" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px"
+                        title="HTML" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px"
+                        title="CSS" />
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px"
+                        title="Firebase (db, admin, account management, hosting)" />
+                </td>
+            </tr>
         </tbody>
     </table>
 
