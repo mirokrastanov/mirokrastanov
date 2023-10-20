@@ -152,7 +152,7 @@
 <br />
 <h1 align="center"> 📜 Certificates </h1>
 <h3 align="center">
- <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni#Certificates" title="Click to view Certificates"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="50px" /></a>
+ <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni#Certificates" title="Click to view Certificates" target="_blank"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="50px" /></a>
 </h3>
 
 
