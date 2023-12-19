@@ -3,27 +3,33 @@
 <h1 align="center"> :wave: Introduction </h1>
 
 <ul type="none" align="center">
- <li> 🎓 An alumnus of <a href="https://www.tu-sofia.bg/">Technical University of Sofia</a> (BG,2017) and <a href="https://www.coventry.ac.uk/">Coventry  University</a> (UK,2018) (graduated with merit).</li>
- <li> 👀 Interested in programming and currently I'm learning Frond End & Back End technologies with JavaScript. </li>
- <li> 💻 I have a few years of experience working as a technical support specialist, coupled with some use of coding for improved performance. </li>
- <li> ✨ I decided to pursue programming professionally and I was accepted in <a href="https://softuni.bg">Software University</a> (BG,2022) and my coding journey began. </li>
- <li> 🖥️ <a href="https://replit.com/@mirokrastanov">My Demos (Apps/Games)</a> (Some projects are still in progress and may or may not contain a working demo).</li> 
- </ul>
+ <li> 💻 I am a <b>Full Stack JavaScript Developer</b> </li>
+ <li> 💻 I have several years of experience working as a Technical Support Specialist </li>
+ <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University - Sofia</a> (BG,2017) </li>
+ <li> 🎓 Alumnus of <a href="https://www.coventry.ac.uk/">Coventry University</a> (UK,2018) (graduated with merit).</li>
+ <li> 🎓 Alumnus of <a href="https://softuni.bg">Software University - Sofia</a> (BG,2023) - <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni#Certificates">Diploma & Certificates</a> </li>
+ <li> 🕹️ Some of my app <a href="https://replit.com/@mirokrastanov">Demos</a> </li> 
+ </ul> 
 <br />
 
 <h1 align="center"> 🔭 Tools & Technologies </h1>
-<br />
 
 <table align="center"> <!-- TABLE 1 -->
     <tr height="50px"> <!-- ROW 0 -->
         <td align="center" valign="middle">
-            <b>Frameworks</b>
+            <b> UI </b>
         </td>
         <td align="center" valign="middle">
-            <a href="https://angular.io/" target="_blank"><img align="center"
-                    alt="Angular" height="40px"
-                    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
-                    title="Angular" /></a>
+            <a href="https://react.dev/" target="_blank">
+               <img align="center" alt="React JS" height="40px" title="React JS"
+                    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
+                />
+            </a>
+            <a href="https://angular.io/" target="_blank">
+               <img align="center" alt="Angular" height="40px" title="Angular"
+                    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" 
+                />
+            </a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 1 -->
@@ -63,9 +69,6 @@
             <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="20px"
                     src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/mongoose%20icon.png?raw=true"
                     title="Mongoose" /></a>
-            <a href="https://firebase.google.com/" target="_blank"><img align="center" alt="mongoose" height="40px"
-                    src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
-                    title="Firebase (db, admin, auth, account management, hosting)" /></a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 3 -->
@@ -82,13 +85,35 @@
             <a href="https://playwright.dev/" target="_blank"><img align="center" alt="playwright" height="40px"
                     src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png"
                     title="Playwright" /></a>
+            <a href="https://jestjs.io/" target="_blank"><img align="center" alt="jest" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
+                    title="Jest" /></a>
         </td>
     </tr>
-    <tr height="50px"> <!-- ROW 4-->
+    <tr height="50px"> <!-- ROW 4 -->
         <td align="center" valign="middle">
-            <b>Libraries</b>
+            <b>Web Scraping</b>
         </td>
         <td align="center" valign="middle">
+            <a href="https://pptr.dev/" target="_blank"><img align="center" alt="cookie-parser"
+                    height="40px" src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png"
+                    title="Puppeteer (web scraping)" /></a>
+        </td>
+    </tr>
+</table>
+
+<table align="center">
+  <tr>
+   <th>Misc</th>
+  </tr>
+  <tr height="50px"> <!-- ROW 5-->
+        <td align="center" valign="middle">
+            <a href="https://firebase.google.com/" target="_blank"><img align="center" alt="firebase" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
+                    title="Firebase (db, admin, auth, account management, hosting)" /></a>
+            <a href="https://appwrite.io/" target="_blank"><img align="center" alt="appwrite" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg"
+                    title="Appwrite (db, admin, auth, account management, hosting)" /></a>
             <a href="https://lit.dev/docs/v1/lit-html/introduction/" target="_blank"><img align="center"
                     alt="lit-html" height="40px"
                     src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg"
@@ -114,35 +139,6 @@
             <a href="https://www.npmjs.com/package/cookie-parser" target="_blank"><img align="center" alt="cookie-parser"
                     height="40px" src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/cookie%20parser%20icon.png?raw=true"
                     title="Cookie-parser (cookies)" /></a>
-            <a href="https://pptr.dev/" target="_blank"><img align="center" alt="cookie-parser"
-                    height="40px" src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png"
-                    title="Puppeteer (web scraping)" /></a>
-        </td>
-    </tr>
-    <tr height="50px"> <!-- ROW 5-->
-        <td align="center" valign="middle">
-            <b>Others</b>
-        </td>
-        <td align="center" valign="middle">
-            <a href="https://en.wikipedia.org/wiki/XAMPP" target="_blank"><img align="center"
-                        alt="xampp" height="46px"
-                        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/xampp%20icon.png?raw=true"
-                        title="XAMPP (web server solution stack)" /></a>
-            <a href="https://www.postman.com/" target="_blank"><img align="center" alt="postman" height="50px"
-                    src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"
-                    title="Postman" /></a>
-            <a href="https://git-scm.com/" target="_blank"><img align="center" alt="git" height="40px"
-                    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" /></a>
-            <a href="https://github.com/about" target="_blank"><img align="center" alt="Github" height="40px"
-                    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg"
-                    title="Github" /></a>
-           <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"
-                    target="_blank"><img align="center" alt="active directory" height="40px"
-                        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/AD-icon.png?raw=true"
-                        title="Active Directory" /></a>
-                <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="center" alt="windows server" height="36px"
-                        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/win-server-icon.png?raw=true"
-                        title="Windows Server" /></a>
         </td>
     </tr>
 </table>
@@ -371,6 +367,25 @@
                         title="Firebase (db, admin, auth, account management, hosting)" />
                     <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png" height="40px"
                         title="Puppeteer (web scraping)" />
+                </td>
+            </tr>
+            <tr> <!-- ROW 3 -->
+                <td align="center" valign="middle"><b>TV Kingdom</b></td>
+                <td align="center" valign="middle"><b>Full Stack Web App</b></td>
+                <td align="center" valign="middle"> <a href="https://kingdom-71759.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TV-Kingdom/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TV-Kingdom"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr>
+                <td align="center" valign="middle"><b>Tech used</b></td>
+                <td align="center" valign="middle" colspan="4">
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px" title="HTML" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px" title="CSS" />
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" height="40px" title="Appwrite (db, auth, account management)" />
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px" title="Firebase (hosting)" />
+                    <img src="https://swiperjs.com/images/swiper-logo.svg" title="Swiper JS" height="40px" />
                 </td>
             </tr>
         </tbody>
