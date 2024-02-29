@@ -77,10 +77,10 @@
         </td>
         <td align="center" valign="middle">
             <a href="https://mochajs.org/" target="_blank"><img align="center" alt="mocha" height="46px"
-                    src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667"
+                    src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/3580c6f8605849cadb6b7976b6f9b5bba16b44b9/miscellaneous/Mocha%20Logo.svg"
                     title="Mocha" /></a>
             <a href="https://www.chaijs.com/" target="_blank"><img align="center" alt="chai" height="42px"
-                    src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67"
+                    src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/d0253300cfbe2f2968c14770c297804f3dd4f30c/miscellaneous/Chai%20Logo.svg"
                     title="Chai" /></a>
             <a href="https://playwright.dev/" target="_blank"><img align="center" alt="playwright" height="40px"
                     src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png"
