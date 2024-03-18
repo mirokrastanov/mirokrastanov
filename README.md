@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
 
 <h1 align="center"> :wave: Introduction </h1>
+<h3 align="center">*App Demos for my smaller projects will be moved to glitch soon. Large Project demos are online and working. Feel free to check them out.</h3>
 
 <ul type="none" align="center">
  <li> 💻 I am a <b>Full Stack JavaScript Developer</b> </li>
