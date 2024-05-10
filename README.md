@@ -325,7 +325,7 @@
             <tr> <!-- ROW 1 -->
                 <td align="center" valign="middle"><b>Weather & Air Quality</b></td>
                 <td align="center" valign="middle"><b>Front End SPA</b></td>
-                <td align="center" valign="middle"> <a href="https://weather.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://weather-a2a51.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/Responsive-Weather-Application/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/Responsive-Weather-Application"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
