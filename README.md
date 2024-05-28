@@ -1,15 +1,14 @@
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
 
 <h1 align="center"> :wave: Introduction </h1>
-<h3 align="center">*App Demos for my smaller projects will be moved to glitch soon. Large Project demos are online and working. Feel free to check them out.</h3>
 
 <ul type="none" align="center">
- <li> 💻 I am a <b>Full Stack JavaScript Developer</b> </li>
- <li> 💻 I have several years of experience working as a Technical Support Specialist </li>
+ <li> 💻 Full Stack Developer (MERN stack) </li>
+ <li> 💻 Several years of experience working as a Technical Support Specialist </li>
  <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University - Sofia</a> (BG,2017) </li>
  <li> 🎓 Alumnus of <a href="https://www.coventry.ac.uk/">Coventry University</a> (UK,2018) (graduated with merit).</li>
  <li> 🎓 Alumnus of <a href="https://softuni.bg">Software University - Sofia</a> (BG,2023) - <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni#Certificates">Diploma & Certificates</a> </li>
- <li> 🕹️ Some of my app <a href="https://replit.com/@mirokrastanov">Demos</a> </li> 
+ <h2> 🕹️ Check out all my <a href="https://app-library-13e36.web.app/">App Demos</a> in my app library.</h2> <i>updated regularly</i> 
  </ul> 
 <br />
 
