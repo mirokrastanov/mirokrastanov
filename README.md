@@ -182,19 +182,33 @@
         <tbody>
             <tr> <!-- ROW 1 -->
                 <td align="center" valign="middle"><b>Rock Paper Scissors</b></td>
-                <td align="center" valign="middle"><b>Console Game</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
                 <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/rps"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px" title="JavaScript" /></td>
+                <td align="center" valign="middle">
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+                        title="JavaScript" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+                        title="HTML" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+                        title="CSS" />
+                </td>
             </tr>
             <tr> <!-- ROW 2 -->
                 <td align="center" valign="middle"><b>Guess The Number</b></td>
-                <td align="center" valign="middle"><b>Console Game</b></td>
+                <td align="center" valign="middle"><b>Web Game</b></td>
                 <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/guess"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px" title="JavaScript" /></td>
+                <td align="center" valign="middle">
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+                        title="JavaScript" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+                        title="HTML" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+                        title="CSS" />
+                </td>
             </tr>
             <tr> <!-- ROW 3 -->
                 <td align="center" valign="middle"><b>Dino Jumping</b></td>
