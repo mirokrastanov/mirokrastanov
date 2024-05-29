@@ -17,7 +17,7 @@
 <table align="center"> <!-- TABLE 1 -->
     <tr height="50px"> <!-- ROW 0 -->
         <td align="center" valign="middle">
-            <b> UI </b>
+            <b> Frameworks/lib </b>
         </td>
         <td align="center" valign="middle">
             <a href="https://react.dev/" target="_blank">
@@ -183,7 +183,7 @@
             <tr> <!-- ROW 1 -->
                 <td align="center" valign="middle"><b>Rock Paper Scissors</b></td>
                 <td align="center" valign="middle"><b>Console Game</b></td>
-                <td align="center" valign="middle"> <a href="https://replit.com/@mirokrastanov/RockPaperScissors-JS?v=1"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/rps"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px" title="JavaScript" /></td>
@@ -191,7 +191,7 @@
             <tr> <!-- ROW 2 -->
                 <td align="center" valign="middle"><b>Guess The Number</b></td>
                 <td align="center" valign="middle"><b>Console Game</b></td>
-                <td align="center" valign="middle"> <a href="https://replit.com/@mirokrastanov/GuessTheNumber-JS?v=1"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/guess"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px" title="JavaScript" /></td>
@@ -199,7 +199,7 @@
             <tr> <!-- ROW 3 -->
                 <td align="center" valign="middle"><b>Dino Jumping</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://dino-jumping.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/dino-jumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
@@ -214,7 +214,7 @@
             <tr> <!-- ROW 4 -->
                 <td align="center" valign="middle"><b>Snake</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://snake.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/snake"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
@@ -229,7 +229,7 @@
             <tr> <!-- ROW 5 -->
                 <td align="center" valign="middle"><b>Breakout / Arkanoid</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://breakout.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://breakout-m-krastanov.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
@@ -244,7 +244,7 @@
             <tr> <!-- ROW 6 -->
                 <td align="center" valign="middle"><b>Scientific Calculator</b></td>
                 <td align="center" valign="middle"><b>Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://scientific-calculator.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://s-calc-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
@@ -259,7 +259,7 @@
             <tr> <!-- ROW 7 -->
                 <td align="center" valign="middle"><b>SoftUni Wizard</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://softuni-wizard-game.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://softuni-wizard-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
@@ -274,7 +274,7 @@
             <tr> <!-- ROW 8 -->
                 <td align="center" valign="middle"><b>Solitaire</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://solitaire.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://solitaire-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
@@ -289,7 +289,7 @@
             <tr> <!-- ROW 9 -->
                 <td align="center" valign="middle"><b>Tic Tac Toe</b></td>
                 <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://tictactoe.mirokrastanov.repl.co/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/tic-tac-toe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
                 <td align="center" valign="middle">
