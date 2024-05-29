@@ -410,6 +410,11 @@
                 <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/JS-Websocket-Chat"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
             </tr>
             <tr>
+             <td align="center" valign="middle" colspan="5"> 
+              This Demo: First loading takes about 30-50 seconds. Further ones are instant. Free Hosting limitation. 
+             </td>
+            </tr>
+            <tr>
                 <td align="center" valign="middle"><b>Tech used</b></td>
                 <td align="center" valign="middle" colspan="4">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
