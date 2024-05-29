@@ -388,6 +388,27 @@
                     <img src="https://swiperjs.com/images/swiper-logo.svg" title="Swiper JS" height="40px" />
                 </td>
             </tr>
+            <tr> <!-- ROW 4 -->
+                <td align="center" valign="middle"><b>Real-time Chat App</b></td>
+                <td align="center" valign="middle"><b>Full Stack Web App</b></td>
+                <td align="center" valign="middle"> <a href="https://js-websocket-chat.onrender.com/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/JS-Websocket-Chat/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/JS-Websocket-Chat"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
+            </tr>
+            <tr>
+                <td align="center" valign="middle"><b>Tech used</b></td>
+                <td align="center" valign="middle" colspan="4">
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px" title="HTML" />
+                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px" title="CSS" />
+                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40px" title="Node.js" />
+                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="40px" title="Express.js" />
+                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40px" title="MongoDB" />
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" height="40px" title="Mongoose" />
+                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40px" title="Tailwind" />
+                </td>
+            </tr>
         </tbody>
     </table>
 
