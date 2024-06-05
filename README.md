@@ -69,6 +69,9 @@
             <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="20px"
                     src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/mongoose%20icon.png?raw=true"
                     title="Mongoose" /></a>
+            <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"><img align="center" alt="mssql(t-sql)" height="40px"
+                    src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png"
+                    title="MSSQL (T-SQL)" /></a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 3 -->
