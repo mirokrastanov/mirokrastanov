@@ -66,8 +66,8 @@
                     title="Express.js" /></a>
             <a href="https://www.mongodb.com/" target="_blank"><img align="center" alt="mongodb" height="40px"
                     src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" title="MongoDB" /></a>
-            <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="20px"
-                    src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/mongoose%20icon.png?raw=true"
+            <a href="https://mongoosejs.com/" target="_blank"><img align="center" alt="mongoose" height="40px"
+                    src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4"
                     title="Mongoose" /></a>
             <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"><img align="center" alt="mssql(t-sql)" height="40px"
                     src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png"
