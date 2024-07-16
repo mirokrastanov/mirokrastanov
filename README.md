@@ -131,6 +131,9 @@
   </tr>
   <tr height="50px"> <!-- ROW 5-->
         <td align="center" valign="middle">
+            <a href="https://pixijs.com/" target="_blank"><img align="center" alt="pixi.js" height="40px"
+                    src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/raw/main/miscellaneous/pixijs-logo.png"
+                    title="Pixi JS" /></a>
             <a href="https://firebase.google.com/" target="_blank"><img align="center" alt="firebase" height="40px"
                     src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"
                     title="Firebase (db, admin, auth, account management, hosting)" /></a>
@@ -548,10 +551,32 @@
 </details> <!-- End sub 5 -->
 
 
+<details align="center"> <!-- Start sub 6 -->
+ <summary><h1>6. 📊Statistics</h1></summary>
+ <p>👆Click above to hide section🚫</p>
+ <hr />
+
+ <table align="center"> 
+  <tr>
+   <td>
+    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" />
+   </td>
+   <td>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" />
+   </td>
+  </tr>
+ </table>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet&style=plastic" height="24px" alt="visitors">
+ </p>
+
+ <hr />
+ <br /> 
+</details> <!-- End sub 6 -->
 
 
-
-
+<!--  END OF CONTENT SHOWN -->
 
 
 
@@ -563,36 +588,17 @@
 <!-- <img align="left" alt="cplusplus" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" title="C++" /> -->
 <!-- <img align="left" alt="python" width="40px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" title="Python" /> -->
 <!-- <img align="left" alt="php" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" /> -->
- 
- 
+  
 <!--  TRANSPARENT IMAGE for when alignments don't work as they should - use the img below and resize accordingly -->
 <!--  <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> -->
-
-
-
-
-
-
-<br />
-<h1 align="center"> 📋 Statistics </h1>
-
-<table align="center"> 
-  <tr>
-   <td> <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mirokrastanov&show_icons=true&include_all_commits=true&bg_color=00000000&hide_border=true&theme=midnight-purple" alt="GitHub Stats" /></a> </td>
-   <td> <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirokrastanov&layout=compact&bg_color=00000000&hide_border=true&theme=midnight-purple" /></a> </td>
- </tr>
-</table>
-<br />
-
-
 
 <!-- ![visitor count](https://visitor-badge.glitch.me/badge?page_id=mirokrastanov) 
 |<img src="https://icon-library.com/images/eye__1395642.png" border="0" height="12px" alt="views-icon"> Visitor Count|![views](https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet)|
 |--|--|  visitor badge - alternatives -->
 
+<!--
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mirokrastanov&color=blueviolet&style=plastic" height="24px" alt="visitors"></p>
-
-
+-->
 
 <!-- TODO 
 - do one more big project
