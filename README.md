@@ -3,7 +3,7 @@
 
 <table align="center">
   <tr>
-    <th colspan="3"><h3> ❗ Interactive Headings ▶️ </h3></th>
+    <th colspan="3">❗ Interactive Headings ▶️</th>
   </tr>
   <tr>
     <td align="center">Click to <code>Show</code> / <code>Hide</code> contents</td>
