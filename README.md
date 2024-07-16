@@ -431,7 +431,121 @@
 </details> <!-- End sub 4 -->
 
 
+<details align="center"> <!-- Start sub 5 -->
+ <summary><h1>5. 🚀Large Projects</h1></summary>
+ <p>👆Click above to hide section🚫</p>
+ <hr />
 
+ <table align="center">
+  <thead>
+    <tr>
+     <th><h3>Name</h3></th>
+     <th><h3>Type</h3></th>
+     <th><h3>Demo</h3></th>
+     <th><h3>Docs</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr> <!-- ROW 1 - MAIN -->
+    <td align="center" valign="middle"><b>☀️🌡️Weather & Air Quality</b></td>
+    <td align="center" valign="middle"><b>Front End SPA</b></td>
+    <td align="center" valign="middle"> <a href="https://weather-a2a51.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+    <td align="center" valign="middle">
+     <a href="https://github.com/mirokrastanov/Responsive-Weather-Application">
+      <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true"   
+       height="40px" />
+     </a>
+    </td>
+   </tr>
+   <tr> <!-- ROW 1 - TECH -->
+    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle" colspan="3">
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px"
+         title="JavaScript" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px"
+         title="HTML" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px"
+         title="CSS" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" height="40px"
+         title="lit-html (templating)" />
+     <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/page-js-1.png?raw=true"
+         height="44px" title="Page JS (router)" />
+     <img src="https://avatars.githubusercontent.com/u/32372333?v=4" height="46px"
+         title="Axios (http requests)" />
+    </td>
+   </tr>
+   <tr> <!-- ROW 2 - MAIN -->
+    <td align="center" valign="middle"><b>🏀📆NBA Dashboard</b></td>
+    <td align="center" valign="middle"><b>Full Stack Web App</b></td>
+    <td align="center" valign="middle"> <a href="https://nba-1-480a7.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+    <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/NBA-Dashboard"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+   </tr>
+   <tr> <!-- ROW 2 - TECH -->
+    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle" colspan="3">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40px"
+         title="Angular" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"
+         title="Typescript" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px"
+         title="HTML" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px"
+         title="CSS" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px"
+         title="Firebase (db, admin, auth, account management, hosting)" />
+     <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png" height="40px"
+         title="Puppeteer (web scraping)" />
+    </td>
+   </tr>
+   <tr> <!-- ROW 3 - MAIN -->
+    <td align="center" valign="middle"><b>🎬🎉TV Kingdom</b></td>
+    <td align="center" valign="middle"><b>Full Stack Web App</b></td>
+    <td align="center" valign="middle"> <a href="https://kingdom-71759.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+    <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TV-Kingdom"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+   </tr>
+   <tr> <!-- ROW 3 - TECH -->
+    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle" colspan="3">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px" title="HTML" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px" title="CSS" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" height="40px" title="Appwrite (db, auth, account management)" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px" title="Firebase (hosting)" />
+     <img src="https://swiperjs.com/images/swiper-logo.svg" title="Swiper JS" height="40px" />
+    </td>
+   </tr>
+   <tr> <!-- ROW 4 - MAIN -->
+    <td align="center" valign="middle"><b>💬📱Real-time Chat</b></td>
+    <td align="center" valign="middle"><b>Full Stack Web App</b></td>
+    <td align="center" valign="middle"> <a href="https://js-websocket-chat.onrender.com/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+    <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/JS-Websocket-Chat"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+   </tr>
+   <tr> <!-- ROW 4 - TECH -->
+    <td align="center" valign="middle" colspan="5"> 
+     This Demo Only: First load 30-50 sec (due to free hosting), then instant.
+    </td>
+   </tr>
+   <tr>
+    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle" colspan="3">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px" title="HTML" />
+     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px" title="CSS" />
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40px" title="Node.js" />
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="40px" title="Express.js" />
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40px" title="MongoDB" />
+     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" height="40px" title="Mongoose" />
+     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40px" title="Tailwind" />
+    </td>
+   </tr>
+  </tbody>
+ </table>
+
+ <hr />
+ <br /> 
+</details> <!-- End sub 5 -->
 
 
 
@@ -454,116 +568,6 @@
 <!--  TRANSPARENT IMAGE for when alignments don't work as they should - use the img below and resize accordingly -->
 <!--  <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> -->
 
-
-<br />
-<h1 align="center"> :movie_camera: Large Projects</h1>
-
-  <table align="center">
-        <thead>
-            <tr>
-                <th><h3>Name</h3></th>
-                <th><h3>Type</h3></th>
-                <th><h3>Demo</h3></th>
-                <th><h3>Documentation</h3></th>
-                <th><h3>Project Files</h3></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr> <!-- ROW 1 -->
-                <td align="center" valign="middle"><b>Weather & Air Quality</b></td>
-                <td align="center" valign="middle"><b>Front End SPA</b></td>
-                <td align="center" valign="middle"> <a href="https://weather-a2a51.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/Responsive-Weather-Application/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/Responsive-Weather-Application"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle"><b>Tech used</b></td>
-                <td align="center" valign="middle" colspan="4">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px"
-                        title="CSS" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Lit-Dark.svg" height="40px"
-                        title="lit-html (templating)" />
-                    <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/page-js-1.png?raw=true"
-                        height="44px" title="Page JS (router)" />
-                    <img src="https://avatars.githubusercontent.com/u/32372333?v=4" height="46px"
-                        title="Axios (http requests)" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 2 -->
-                <td align="center" valign="middle"><b>NBA Dashboard</b></td>
-                <td align="center" valign="middle"><b>Full Stack Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://nba-1-480a7.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/NBA-Dashboard/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/NBA-Dashboard"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle"><b>Tech used</b></td>
-                <td align="center" valign="middle" colspan="4">
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40px"
-                        title="Angular" />
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40px"
-                        title="Typescript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px"
-                        title="CSS" />
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px"
-                        title="Firebase (db, admin, auth, account management, hosting)" />
-                    <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/puppeteer-1.png" height="40px"
-                        title="Puppeteer (web scraping)" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 3 -->
-                <td align="center" valign="middle"><b>TV Kingdom</b></td>
-                <td align="center" valign="middle"><b>Full Stack Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://kingdom-71759.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TV-Kingdom/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TV-Kingdom"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle"><b>Tech used</b></td>
-                <td align="center" valign="middle" colspan="4">
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px" title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px" title="CSS" />
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" height="40px" title="Appwrite (db, auth, account management)" />
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" height="40px" title="Firebase (hosting)" />
-                    <img src="https://swiperjs.com/images/swiper-logo.svg" title="Swiper JS" height="40px" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 4 -->
-                <td align="center" valign="middle"><b>Real-time Chat App</b></td>
-                <td align="center" valign="middle"><b>Full Stack Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://js-websocket-chat.onrender.com/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/JS-Websocket-Chat/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/JS-Websocket-Chat"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-            </tr>
-            <tr>
-             <td align="center" valign="middle" colspan="5"> 
-              This Demo: First loading takes about 30-50 seconds. Further ones are instant. Free Hosting limitation. 
-             </td>
-            </tr>
-            <tr>
-                <td align="center" valign="middle"><b>Tech used</b></td>
-                <td align="center" valign="middle" colspan="4">
-                    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40px" title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40px" title="CSS" />
-                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="40px" title="Node.js" />
-                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="40px" title="Express.js" />
-                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40px" title="MongoDB" />
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongoose/mongoose-original.svg" height="40px" title="Mongoose" />
-                    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40px" title="Tailwind" />
-                </td>
-            </tr>
-        </tbody>
-    </table>
 
 
 
