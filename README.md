@@ -29,30 +29,12 @@
 </details> <!-- End sub 1 -->
 
 
+<details align="center"> <!-- Start sub 2 -->
+ <summary><h1>2. 🛠️Tools & Technologies</h1></summary>
+ <p>👆Click above to hide section🚫</p>
+ <hr />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center"> 🔭 Tools & Technologies </h1>
-
-<table align="center"> <!-- TABLE 1 -->
+ <table align="center"> <!-- TABLE 1 -->
     <tr height="50px"> <!-- ROW 0 -->
         <td align="center" valign="middle">
             <b> Frameworks/lib </b>
@@ -183,6 +165,29 @@
         </td>
     </tr>
 </table>
+
+ <hr />
+ <br /> 
+</details> <!-- End sub 2 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
