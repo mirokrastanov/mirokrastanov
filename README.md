@@ -276,6 +276,164 @@
 </details> <!-- End sub 3 -->
 
 
+<details align="center"> <!-- Start sub 4 -->
+ <summary><h1>4. 💡Projects</h1></summary>
+ <p>👆Click above to hide section🚫</p>
+ <hr />
+
+  <table align="center">
+   <thead>
+    <tr>
+     <th><h3>Name</h3></th>
+     <th><h3>Demo</h3></th>
+     <th><h3>Docs</h3></th>
+     <th><h3>Tech used</h3></th>
+    </tr>
+   </thead>
+   <tbody>
+    <tr> <!-- ROW 1 -->
+     <td align="center" valign="middle"><b>Rock Paper Scissors</b></td>
+     <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/rps"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 2 -->
+     <td align="center" valign="middle"><b>Guess The Number</b></td>
+     <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/guess"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 3 -->
+     <td align="center" valign="middle"><b>Dino Jumping</b></td>
+     <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/dino-jumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 4 -->
+     <td align="center" valign="middle"><b>Snake</b></td>
+     <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/snake"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 5 -->
+     <td align="center" valign="middle"><b>Breakout / Arkanoid</b></td>
+     <td align="center" valign="middle"> <a href="https://breakout-m-krastanov.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 6 -->
+     <td align="center" valign="middle"><b>Scientific Calculator</b></td>
+     <td align="center" valign="middle"> <a href="https://s-calc-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 7 -->
+     <td align="center" valign="middle"><b>SoftUni Wizard</b></td>
+     <td align="center" valign="middle"> <a href="https://softuni-wizard-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 8 -->
+     <td align="center" valign="middle"><b>Solitaire</b></td>
+     <td align="center" valign="middle"> <a href="https://solitaire-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 9 -->
+     <td align="center" valign="middle"><b>Tic Tac Toe</b></td>
+     <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/tic-tac-toe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+     </td>
+    </tr>
+    <tr> <!-- ROW 10 -->
+     <td align="center" valign="middle"><b>PixiJS Runner</b></td>
+     <td align="center" valign="middle"> <a href="http://pixi-runner.free.nf"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
+     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/pixi-js-runner"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
+     <td align="center" valign="middle">
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
+             title="JavaScript" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
+             title="HTML" />
+         <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
+             title="CSS" />
+         <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/pixijs-logo.png" 
+             height="30px" title="Pixi JS" />
+     </td>
+    </tr>   
+  </tbody>
+ </table>
+
+ <hr />
+ <br /> 
+</details> <!-- End sub 4 -->
+
+
+
+
+
 
 
 
@@ -295,161 +453,6 @@
  
 <!--  TRANSPARENT IMAGE for when alignments don't work as they should - use the img below and resize accordingly -->
 <!--  <img align="center" alt="" width="10px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png" title="" /> -->
-
-
-<h1 align="center"> :movie_camera: Projects </h1>
-
-  <table align="center">
-        <thead>
-            <tr>
-                <th><h3>Name</h3></th>
-                <th><h3>Type</h3></th>
-                <th><h3>Demo</h3></th>
-                <th><h3>Docs</h3></th>
-                <th><h3>Project Files</h3></th>
-                <th><h3>Tech used</h3></th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr> <!-- ROW 1 -->
-                <td align="center" valign="middle"><b>Rock Paper Scissors</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/rps"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/RockPaperScissors"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 2 -->
-                <td align="center" valign="middle"><b>Guess The Number</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/guess"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/GuessTheNumber"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 3 -->
-                <td align="center" valign="middle"><b>Dino Jumping</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/dino-jumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/DinoJumping"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 4 -->
-                <td align="center" valign="middle"><b>Snake</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/snake"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/snakeJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 5 -->
-                <td align="center" valign="middle"><b>Breakout / Arkanoid</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://breakout-m-krastanov.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/breakoutJS"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 6 -->
-                <td align="center" valign="middle"><b>Scientific Calculator</b></td>
-                <td align="center" valign="middle"><b>Web App</b></td>
-                <td align="center" valign="middle"> <a href="https://s-calc-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/ScientificCalculator"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 7 -->
-                <td align="center" valign="middle"><b>SoftUni Wizard</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://softuni-wizard-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/softuni-wizard-game"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 8 -->
-                <td align="center" valign="middle"><b>Solitaire</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://solitaire-miro.glitch.me/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/solitaire"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-            <tr> <!-- ROW 9 -->
-                <td align="center" valign="middle"><b>Tic Tac Toe</b></td>
-                <td align="center" valign="middle"><b>Web Game</b></td>
-                <td align="center" valign="middle"> <a href="https://app-library-13e36.web.app/apps/tic-tac-toe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/play-now-btn.png?raw=true" height="25px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe/blob/main/README.md"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
-                <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TicTacToe"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/click-here-btn.png?raw=true" height="30px" /></a> </td>
-                <td align="center" valign="middle">
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="30px"
-                        title="JavaScript" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="30px"
-                        title="HTML" />
-                    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="30px"
-                        title="CSS" />
-                </td>
-            </tr>
-         
- </tbody>
-</table>
-
 
 
 <br />
