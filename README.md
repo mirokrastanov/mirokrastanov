@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
 
+## Table of Contents
+### [Introduction](#-wave-introduction-)
+
 <h1 align="center"> :wave: Introduction </h1>
 
 <ul type="none" align="center">
