@@ -290,7 +290,7 @@
      <th><h3>Name</h3></th>
      <th><h3>Demo</h3></th>
      <th><h3>Docs</h3></th>
-     <th><h3>Tech used</h3></th>
+     <th><h3>🛠️Built with</h3></th>
     </tr>
    </thead>
    <tbody>
@@ -461,7 +461,7 @@
     </td>
    </tr>
    <tr> <!-- ROW 1 - TECH -->
-    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle">🛠️Built with</td>
     <td align="center" valign="middle" colspan="3">
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px"
          title="JavaScript" />
@@ -478,13 +478,15 @@
     </td>
    </tr>
    <tr> <!-- ROW 2 - MAIN -->
-    <td align="center" valign="middle"><b>🏀📆NBA Dashboard</b></td>
+    <td align="center" valign="middle"><b>🏀📆▶️NBA Dashboard</b><br /><i>
+      <a href="https://github.com/mirokrastanov/NBA-Dashboard" target="_blank">❗⭐Award-Winning✨❗</a>
+    </i></td>
     <td align="center" valign="middle"><b>Full Stack Web App</b></td>
     <td align="center" valign="middle"> <a href="https://nba-1-480a7.web.app/"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" height="30px" /></a> </td>
     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/NBA-Dashboard"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
    </tr>
    <tr> <!-- ROW 2 - TECH -->
-    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle">🛠️Built with</td>
     <td align="center" valign="middle" colspan="3">
      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40px"
          title="Angular" />
@@ -507,7 +509,7 @@
     <td align="center" valign="middle"> <a href="https://github.com/mirokrastanov/TV-Kingdom"><img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/read-more-btn.png?raw=true" height="40px" /></a> </td>
    </tr>
    <tr> <!-- ROW 3 - TECH -->
-    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle">🛠️Built with</td>
     <td align="center" valign="middle" colspan="3">
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
@@ -530,7 +532,7 @@
     </td>
    </tr>
    <tr>
-    <td align="center" valign="middle">Tech used</td>
+    <td align="center" valign="middle">🛠️Built with</td>
     <td align="center" valign="middle" colspan="3">
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40px" title="React JS" />
      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40px" title="JavaScript" />
