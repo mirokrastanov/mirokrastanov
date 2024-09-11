@@ -188,7 +188,7 @@
 
  <table align="center">
   <tr>
-   <th> Main Program </th>    <!-- Main Table - column 1 -->
+   <th> Software Engineering </th>    <!-- Main Table - column 1 -->
    <th> Other Courses </th>   <!-- Main Table - column 2 -->
   </tr>
   <tr>
@@ -196,7 +196,7 @@
    <!-- 1st embedded table start -->
    <table>
     <tr>  <!-- row 1, left embedded table, 1st row -->
-     <th colspan="2"> JS Track </th>
+     <th colspan="2"> JS Developer </th>
     </tr>
     <tr>  <!-- row 2, left embedded table, 2nd row -->
      <th> Average GPA </th> <!-- left embedded table, 1st col -->
