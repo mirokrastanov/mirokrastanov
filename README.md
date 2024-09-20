@@ -280,7 +280,7 @@
 
 
 <details align="center"> <!-- Start sub 4 -->
- <summary><h1>4. 💡Projects</h1></summary>
+ <summary><h1>4. 💡Small Projects</h1></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
 
