@@ -11,7 +11,7 @@
 </table>
 
 <details align="center"> <!-- Start sub 1 -->
- <summary><h1>1. 👋Introduction</h1></summary>
+ <summary><h1 href="javascript:void(0)">1. 👋Introduction</h1></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
  
