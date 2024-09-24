@@ -1,6 +1,16 @@
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
 
+<br />
+<h2 align="center">💯 Click below to check out my portfolio 👇</h2>
+<a href="https://miro-navy-mu.vercel.app/" target="_blank" width="100%">
+   <img align="center" alt="view-portfolio-banner" title="Click here to view my portfolio" width="100%"
+        src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/ai-portfolio-banner.jpg?raw=true" 
+    />
+</a>
 
+<br />
+<br />
+<h2 align="center">🙂 Or continue exploring 👇</h2>
 <table align="center">
   <tr>
     <th colspan="3">❗ Interactive Headings ▶️</th>
