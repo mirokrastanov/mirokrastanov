@@ -21,7 +21,7 @@
 </table>
 
 <details align="center"> <!-- Start sub 1 -->
- <summary><h1 href="javascript:void(0)">1. 👋Introduction</h1></summary>
+ <summary><h2>1. 👋Introduction</h2></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
  
@@ -40,7 +40,7 @@
 
 
 <details align="center"> <!-- Start sub 2 -->
- <summary><h1>2. 🛠️Tools & Technologies</h1></summary>
+ <summary><h2>2. 🛠️Tools & Technologies</h2></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
 
@@ -185,7 +185,7 @@
 
 
 <details align="center"> <!-- Start sub 3 -->
- <summary><h1>3. 📜Certificates</h1></summary>
+ <summary><h2>3. 📜Certificates</h2></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
  
@@ -290,7 +290,7 @@
 
 
 <details align="center"> <!-- Start sub 4 -->
- <summary><h1>4. 💡Small Projects</h1></summary>
+ <summary><h2>4. 💡Small Projects</h2></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
 
@@ -445,7 +445,7 @@
 
 
 <details align="center"> <!-- Start sub 5 -->
- <summary><h1>5. 🚀Large Projects</h1></summary>
+ <summary><h2>5. 🚀Large Projects</h2></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
 
@@ -564,7 +564,7 @@
 
 
 <details align="center"> <!-- Start sub 6 -->
- <summary><h1>6. 📊Statistics</h1></summary>
+ <summary><h2>6. 📊Statistics</h2></summary>
  <p>👆Click above to hide section🚫</p>
  <hr />
 
