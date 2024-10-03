@@ -15,13 +15,13 @@
  <summary>
     <b>1. 👋INTRODUCTION</b> | <code>Show</code>👈
  </summary>
- <br />
+ <hr />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
+ <br />
  
  <ul type="none" align="center">
   <li> 💻 Full Stack Developer (MERN stack) </li>
@@ -30,7 +30,7 @@
   <li> 🎓 Alumnus of <a href="https://www.coventry.ac.uk/">Coventry University</a> (UK,2018) (graduated with merit).</li>
   <li> 🎓 Alumnus of <a href="https://softuni.bg">Software University - Sofia</a> (BG,2023) - <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni#Certificates">Diploma & Certificates</a> </li>
   <h3> 🕹️ Check out all my <a href="https://app-library-13e36.web.app/">App Demos</a> in my app library.</h3>
-  <h3> 🕹️ Or explore my <a href="https://app-library-13e36.web.app/">Portfolio</a></h3>
+  <h3> 🕹️ Or explore my <a href="https://miro-navy-mu.vercel.app/">My Portfolio Website</a></h3>
  </ul>
  
  <hr />
@@ -42,13 +42,13 @@
  <summary>
     <b>2. 🛠️TOOLS & TECH</b> | <code>Show</code>👈
 </summary>
- <br />
+ <hr />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
+ <br />
 
  <table align="center"> <!-- TABLE 1 -->
     <tr height="50px"> <!-- ROW 0 -->
@@ -194,13 +194,13 @@
  <summary>
     <b>3. 📜CERTIFICATES</b> | <code>Show</code>👈
 </summary>
- <br />
+ <hr />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
+ <br />
  
  <a href="https://softuni.bg/">
   <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/softuni-banner.png"        
@@ -306,13 +306,13 @@
  <summary>
     <b>4. 💡SMALL PROJECTS</b> | <code>Show</code>👈
 </summary>
- <br />
+ <hr />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
+ <br />
 
   <table align="center">
    <thead>
@@ -468,13 +468,13 @@
  <summary>
     <b>5. 🚀LARGE PROJECTS</b> | <code>Show</code>👈
 </summary>
- <br />
+ <hr />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
+ <br />
 
  <table align="center">
   <thead>
@@ -594,13 +594,13 @@
  <summary>
     <b>6. 📊STATISTICS</b> | <code>Show</code>👈
  </summary>
- <br />
+ <hr />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
+ <br />
 
  <table align="center"> 
   <tr>
