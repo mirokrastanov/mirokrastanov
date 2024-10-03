@@ -9,6 +9,7 @@
 
 
 <h3 align="center">▶️ Or use the interactive headings below to learn more 👇</h3>
+<hr />
 
 <details align="center"> <!-- Start sub 1 -->
  <summary><b>1. 👋Introduction</b> | <code>Show</code>👈</summary>
