@@ -14,7 +14,7 @@
 
 <details align="center"> <!-- Start sub 1 -->
  <summary>
-    <a href="javascript:void(0);">
+    <a href="javascript:void(0)">
         <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base1.png?raw=true" height="50px" />
     </a>
  </summary>
