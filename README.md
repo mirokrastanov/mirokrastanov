@@ -8,22 +8,16 @@
 </a>
 
 
-
-
 <h3 align="center">▶️ Or use the interactive headings below to learn more 👇</h3>
+<hr />
 
 <details align="center"> <!-- Start sub 1 -->
- <summary>
-    <a href="javascript:void(0)">
-        <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base1.png?raw=true" height="50px" />
-    </a>
- </summary>
+ <summary><b>1. 👋Introduction</b> | <code>Show</code>👈</summary>
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
  
  <ul type="none" align="center">
   <li> 💻 Full Stack Developer (MERN stack) </li>
@@ -41,17 +35,12 @@
 
 
 <details align="center"> <!-- Start sub 2 -->
- <summary>
-     <a href="#">
-        <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base2.png?raw=true" height="50px" />
-    </a>
- </summary>
+ <summary><b>2. 🛠️Tools & Technologies</b> | <code>Show</code>👈</summary>
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
 
  <table align="center"> <!-- TABLE 1 -->
     <tr height="50px"> <!-- ROW 0 -->
@@ -194,18 +183,13 @@
 
 
 <details align="center"> <!-- Start sub 3 -->
- <summary>
-     <a href="#">
-        <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base3.png?raw=true" height="50px" />
-    </a>
- </summary>
+ <summary><b>3. 📜Certificates</b> | <code>Show</code>👈</summary>
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
-
+ 
  <a href="https://softuni.bg/">
   <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/softuni-banner.png"        
    height="160">
@@ -307,17 +291,12 @@
 
 
 <details align="center"> <!-- Start sub 4 -->
- <summary>
-     <a href="#">
-        <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base4.png?raw=true" height="50px" />
-    </a>
- </summary>
+ <summary><b>4. 💡Small Projects</b> | <code>Show</code>👈</summary>
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
 
   <table align="center">
    <thead>
@@ -470,17 +449,12 @@
 
 
 <details align="center"> <!-- Start sub 5 -->
- <summary>
-     <a href="#">
-        <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base5.png?raw=true" height="50px" />
-    </a>
- </summary>
+ <summary><b>5. 🚀Large Projects</b> | <code>Show</code>👈</summary>
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
 
  <table align="center">
   <thead>
@@ -597,17 +571,12 @@
 
 
 <details align="center"> <!-- Start sub 6 -->
- <summary>
-     <a href="#">
-        <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/btns/btn%20base6.png?raw=true" height="50px" />
-    </a>
- </summary>
+ <summary><b>6. 📊Statistics</b> | <code>Show</code>👈</summary>
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
- <hr />
 
  <table align="center"> 
   <tr>
