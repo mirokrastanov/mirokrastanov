@@ -1,4 +1,6 @@
+<!--
 <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/github_02.gif" alt="bg-header-image" width="100%" title="Github Profile Intro Animation - Miro Krastanov" align="center" /> 
+-->
 
 <h3 align="center">💯 Click below to check out my portfolio 👇</h3>
 <a href="https://miro-navy-mu.vercel.app/" target="_blank" width="100%">
