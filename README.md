@@ -12,12 +12,16 @@
 <hr />
 
 <details align="center"> <!-- Start sub 1 -->
- <summary><b>1. 👋Introduction</b> | <code>Show</code>👈</summary>
+ <summary>
+    <b>1. 👋INTRODUCTION</b> | <code>Show</code>👈
+ </summary>
+ <br />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
+ <hr />
  
  <ul type="none" align="center">
   <li> 💻 Full Stack Developer (MERN stack) </li>
@@ -35,12 +39,16 @@
 
 
 <details align="center"> <!-- Start sub 2 -->
- <summary><b>2. 🛠️Tools & Technologies</b> | <code>Show</code>👈</summary>
+ <summary>
+    <b>2. 🛠️TOOLS & TECH</b> | <code>Show</code>👈
+</summary>
+ <br />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
+ <hr />
 
  <table align="center"> <!-- TABLE 1 -->
     <tr height="50px"> <!-- ROW 0 -->
@@ -183,12 +191,16 @@
 
 
 <details align="center"> <!-- Start sub 3 -->
- <summary><b>3. 📜Certificates</b> | <code>Show</code>👈</summary>
+ <summary>
+    <b>3. 📜CERTIFICATES</b> | <code>Show</code>👈
+</summary>
+ <br />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
+ <hr />
  
  <a href="https://softuni.bg/">
   <img src="https://raw.githubusercontent.com/mirokrastanov/Software-Engineering-SoftUni/main/miscellaneous/softuni-banner.png"        
@@ -291,12 +303,16 @@
 
 
 <details align="center"> <!-- Start sub 4 -->
- <summary><b>4. 💡Small Projects</b> | <code>Show</code>👈</summary>
+ <summary>
+    <b>4. 💡SMALL PROJECTS</b> | <code>Show</code>👈
+</summary>
+ <br />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
+ <hr />
 
   <table align="center">
    <thead>
@@ -449,12 +465,16 @@
 
 
 <details align="center"> <!-- Start sub 5 -->
- <summary><b>5. 🚀Large Projects</b> | <code>Show</code>👈</summary>
+ <summary>
+    <b>5. 🚀LARGE PROJECTS</b> | <code>Show</code>👈
+</summary>
+ <br />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
+ <hr />
 
  <table align="center">
   <thead>
@@ -571,12 +591,16 @@
 
 
 <details align="center"> <!-- Start sub 6 -->
- <summary><b>6. 📊Statistics</b> | <code>Show</code>👈</summary>
+ <summary>
+    <b>6. 📊STATISTICS</b> | <code>Show</code>👈
+ </summary>
+ <br />
  <table align="center">
     <tr>
         <td><b>👆Click above to <code>Hide</code> section🚫</b></td>
     </tr>
  </table>
+ <hr />
 
  <table align="center"> 
   <tr>
