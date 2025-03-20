@@ -271,7 +271,7 @@
    <table>
     <tr>  <!-- row 1, right embedded table -->
      <th> Average GPA </th> <!-- 1st col -->
-     <th> 5.72 / 6.00 </th> <!-- 2nd col -->
+     <th> 5.83 / 6.00 </th> <!-- 2nd col -->
     </tr>
     <tr>  <!-- row 2, right embedded table -->
      <th> Course </th> <!-- 1st col -->
@@ -288,6 +288,14 @@
     <tr>
      <td> <a href="https://softuni.bg/trainings/4402/it-career-booster-october-2023">IT Career Booster</a> </td>
      <td> <a href="https://softuni.bg/Certificates/Details/198595/0f3abc84"><img src="https://i.giphy.com/media/fEzB3y39Fs48FUix5Q/giphy.webp" alt="Certificate URL" title="Certificate - press here" height="20px" /></a> </td>
+    </tr>
+    <tr>
+     <td> <a href="https://softuni.bg/trainings/4717/software-engineering-and-devops-september-2024">DevOps</a> </td>
+     <td> <a href="https://softuni.bg/certificates/details/229446/b99c6308"><img src="https://i.giphy.com/media/fEzB3y39Fs48FUix5Q/giphy.webp" alt="Certificate URL" title="Certificate - press here" height="20px" /></a> </td>
+    </tr>
+    <tr>
+     <td> <a href="https://softuni.bg/trainings/4718/containers-and-cloud-october-2024">Containers and Cloud</a> </td>
+     <td> <a href="https://softuni.bg/certificates/details/232839/fe2a745c"><img src="https://i.giphy.com/media/fEzB3y39Fs48FUix5Q/giphy.webp" alt="Certificate URL" title="Certificate - press here" height="20px" /></a> </td>
     </tr>
    </table>
    <!-- 2nd embedded table end -->
