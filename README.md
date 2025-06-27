@@ -58,21 +58,18 @@
             <b> Frameworks/lib </b>
         </td>
         <td align="center" valign="middle">
-            <a href="https://react.dev/" target="_blank">
-               <img align="center" alt="React JS" height="40px" title="React JS"
-                    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" 
-                />
-            </a>
-            <a href="https://angular.io/" target="_blank">
-               <img align="center" alt="Angular" height="40px" title="Angular"
-                    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" 
-                />
-            </a>
-            <a href="https://nextjs.org/docs" target="_blank">
-               <img align="center" alt="Next.js" height="40px" title="Next.js"
-                    src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" 
-               />
-            </a>
+           <a href="https://nextjs.org/docs" target="_blank"><img align="center"
+                    alt="Next.js" height="40px"
+                    src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg"
+                    title="Next.js" /></a>
+           <a href="https://angular.io/" target="_blank"><img align="center"
+                    alt="Angular" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+                    title="Angular" /></a>
+           <a href="https://react.dev/" target="_blank"><img align="center"
+                    alt="React_JS" height="40px"
+                    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
+                    title="React JS" /></a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 1 -->
