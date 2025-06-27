@@ -68,6 +68,11 @@
                     src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" 
                 />
             </a>
+            <a href="https://nextjs.org/docs" target="_blank">
+               <img align="center" alt="Next.js" height="40px" title="Next.js"
+                    src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" 
+               />
+            </a>
         </td>
     </tr>
     <tr height="50px"> <!-- ROW 1 -->
