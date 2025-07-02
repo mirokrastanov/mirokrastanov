@@ -31,9 +31,11 @@
   <li> 🎓 Alumnus of <a href="https://www.tu-sofia.bg/">Technical University - Sofia</a> (BG,2017) </li>
   <li> 🎓 Alumnus of <a href="https://www.coventry.ac.uk/">Coventry University</a> (UK,2018) (graduated with merit).</li>
   <li> 🎓 Alumnus of <a href="https://softuni.bg">Software University - Sofia</a> (BG,2023) - <a href="https://github.com/mirokrastanov/Software-Engineering-SoftUni#Certificates">Diploma & Certificates</a> </li>
-  <h3> 🕹️ Check out all my <a href="https://app-library-13e36.web.app/">App Demos</a> in my app library.</h3> (pending update with newer projects, but all of its current projects are available for testin)
+  <h3> 🕹️ Check out all my <a href="https://app-library-13e36.web.app/">App Demos</a> in my app library*</h3>
+    <i>*pending update for newer projects | current ones are available</i>
   <h3> 🕹️ Or explore my <a href="https://miro-navy-mu.vercel.app/">My Portfolio Website</a></h3>
  </ul>
+ 
  
  <hr />
  <br /> 
